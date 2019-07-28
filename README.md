@@ -12,9 +12,9 @@ Swipe the image :
 
 User authentication : 
 
-<p align="center">
+
  ![alt text](https://github.com/HasymiMuhamad/SiKawan-Apps---Mobile/blob/master/img/mobile_3.png) 
-</p>
+
  
 
 
