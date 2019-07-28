@@ -13,7 +13,7 @@ Swipe the image :
 User authentication : 
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/HasymiMuhamad/SiKawan-Apps---Mobile/blob/master/img/mobile_3.png">
+  <img width="550" height="300" src="https://github.com/HasymiMuhamad/SiKawan-Apps---Mobile/blob/master/img/mobile_3.png">
 </p>
 ![alt text](https://github.com/HasymiMuhamad/SiKawan-Apps---Mobile/blob/master/img/mobile_3.png)  
 
